@@ -68,18 +68,6 @@ https://github.com/Kelim81/lagoa-parque-cardapio
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kelim81&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelim81&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Atualmente Estudando
 
 - PHP
