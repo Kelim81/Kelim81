@@ -16,6 +16,16 @@ Atualmente estudo desenvolvimento web, banco de dados e programação, criando p
 
 ---
 
+## 🎯 Objetivos para 2026
+
+- Aprimorar PHP e MySQL
+- Desenvolver APIs REST
+- Aprender Laravel
+- Construir projetos para portfólio
+- Conseguir estágio na área de desenvolvimento
+
+---
+
 ## 🚀 Tecnologias
 
 ### Front-end
