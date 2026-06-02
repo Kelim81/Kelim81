@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Guilherme Kelim 👋
 
-<!--
-**Kelim81/Kelim81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack em formação
 
-Here are some ideas to get you started:
+🎓 Estudante de Ciência da Computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tecnologias:
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+🚀 Projetos:
+- Sistema de Gerenciamento de Usuários
+- Lagoa Parque Cardápio
+
+📚 Atualmente estudando:
+- PHP
+- Banco de Dados
+- JavaScript
+- Desenvolvimento Web
